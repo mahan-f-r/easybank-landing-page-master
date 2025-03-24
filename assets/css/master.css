@@ -1,0 +1,6 @@
+.hero-img{
+    background-image: url(../../public/images/bg-intro-desktop.svg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
